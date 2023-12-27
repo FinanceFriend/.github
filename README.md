@@ -11,12 +11,12 @@ Finance Friends is a gamified platform designed to teach children about financia
 - **Child-Friendly Interface**: The platform is fully interactive and designed specifically for children, making learning about finances enjoyable and accessible.
 
 ## 🧰 Project Management and Design Tools
-- [📋 Notion for Project Management](https://kvrancic.notion.site/Projekt-R-FINANCE-FRIEND-dcb6bebd85f348d3a2020f5d7a4dfdee?pvs=4)
-- [🎨 Figma for Design](https://www.figma.com/file/5AHqaEfYj0bNcMXTiKgUHE/Finance-Friends-UI?type=design&node-id=0%3A1&mode=design&t=lhfWHWlmmc4kGdFD-1)
+- 📋  [Notion for Project Management](https://kvrancic.notion.site/Projekt-R-FINANCE-FRIEND-dcb6bebd85f348d3a2020f5d7a4dfdee?pvs=4)
+- 🎨  [Figma for Design](https://www.figma.com/file/5AHqaEfYj0bNcMXTiKgUHE/Finance-Friends-UI?type=design&node-id=0%3A1&mode=design&t=lhfWHWlmmc4kGdFD-1)
 
 ## 🗂 Repositories
-- [Backend Repository]([#backend-repo-link](https://github.com/FinanceFriend/frontend)) - Contains details on the Node.js and MongoDB setup as well as Python scripts using LangChain.
-- [Frontend Repository]([#frontend-repo-link](https://github.com/FinanceFriend/backend)) - Contains details on the React implementation.
+- [Backend Repository](https://github.com/FinanceFriend/frontend) - Contains details on the Node.js and MongoDB setup as well as Python scripts using LangChain.
+- [Frontend Repository](https://github.com/FinanceFriend/backend) - Contains details on the React implementation.
 
 ## 🚀 Getting Started
 Detailed instructions for setting up the project are available in the respective repositories. Follow the links above to get started with either the backend or frontend.
