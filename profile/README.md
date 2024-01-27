@@ -1,6 +1,6 @@
 # 🌟 Finance Friends 🌟
 
-# 🚀 **DEPLOY COUNTDOWN: Less than 2 days**
+# 🚀 **[CLICK HERE TO SEE THE CURRENT DEPLOY](https://finance-friend.vercel.app/)**
 
 ## 📚 Overview
 Finance Friends is a gamified platform designed to teach children about financial literacy through engaging and interactive methods. Our project combines innovative AI technology with a user-friendly interface to create an educational yet fun experience for kids. 
